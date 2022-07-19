@@ -1,0 +1,11 @@
+.productTable {
+  margin-top: 10px;
+  .btnAction {
+    cursor: pointer;
+    color: blue;
+  }
+  .btnActionDisable {
+    cursor: not-allowed;
+    color: gray;
+  }
+}
